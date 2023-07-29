@@ -1,0 +1,77 @@
+.body{
+    height: 5000px;
+    overflow-x: hidden;
+}
+.bg-img{
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+    filter: brightness(0.6);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+
+}
+#h2{
+    font-size: 120px;
+    margin-top: 160px;
+}
+
+#h{
+
+    margin-top: 320;
+    font-size: 120px;
+
+
+}
+#bg{
+    background-color: rgb(222, 228, 228);
+}
+
+
+#section{
+    margin-top: 160px;
+    margin-left: 50px;
+}
+#h1{
+    margin-top: 240px;
+    margin-left: 60px;
+    text-align: center;
+   
+}
+.p1{
+    margin-top: 10px;
+    margin-left: 60px;
+
+}
+.card{
+   margin-top: 50px;
+   margin-left: 80px;
+   
+}
+#fs{
+    margin-top: 120px;
+
+
+
+}
+#center{
+
+    margin-top: 50px;
+}
+.b2{
+    margin-left:60px
+}
+#style{
+    margin-top: 155px;
+    background-color:rgb(6, 97, 50);
+    font-size: 25px;
+
+}
+#style2{
+    background-color: rgb(112, 115, 117);
+    padding: 30px;
+    font-size: 30px;
+}
+
